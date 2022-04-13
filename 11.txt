@@ -1,0 +1,7 @@
+1、修改项目目录/public/index.html文件，将ApiUrl和AppDown改成服务器IP
+
+
+2、在项目根目录执行npm run build进行打包
+
+
+3、打包后将dist上传到服务器
